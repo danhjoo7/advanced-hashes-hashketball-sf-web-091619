@@ -14,13 +14,11 @@ def game_hash
                 {:mason_plumlee => number: "1", shoe: "19", points: "26", 
                   rebounds: "11", assists: "6", steals: "3", blocks: "8", 
                   slam_dunks: "5"}},
-                {:jason_terry => number: "31", shoe: "14", points: "12", 
-                  rebounds: "12", assists: "12", steals: "12", blocks: "12", 
-                  slam_dunks: "7"}}
+                {:jason_terry => number: "31", shoe: "15", points: "19", 
+                  rebounds: "2", assists: "2", steals: "4", blocks: "11", 
+                  slam_dunks: "1"}}
+                ],
                   
-                
-              
-              ],
     :away => {:team_name =>  , :colors =>   , :players => }
   }
 end 
